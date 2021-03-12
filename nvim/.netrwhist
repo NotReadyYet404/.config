@@ -1,3 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =1
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/frank/Downloads/pythonProject/spell_it_please'
+let g:netrw_dirhist_7='/home/frank/Downloads/pythonProject/.git'
+let g:netrw_dirhist_6='/home/frank/.config/ranger'
+let g:netrw_dirhist_5='/home/frank/scripts/c'
+let g:netrw_dirhist_4='/home/frank/.config/coc'
+let g:netrw_dirhist_3='/home/frank/Notes/.git'
+let g:netrw_dirhist_2='/home/frank/scripts/python/aliens_invasion'
 let g:netrw_dirhist_1='/home/frank/Notes/language/thinking_in_java.md'
